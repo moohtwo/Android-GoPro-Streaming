@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GoproActivity!</string>
+    <string name="app_name">Gopro</string>
+    <string name="ssid">SSID</string>
+    <string name="pw">Password</string>
+    <string name="settings">GoPro WIFI settings</string>   
+    
+
+</resources>
